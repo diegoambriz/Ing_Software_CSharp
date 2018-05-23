@@ -1,0 +1,84 @@
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Compras.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Login.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Menu.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Pagos.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Productos.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Properties.Resources.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Proveedores.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Socios.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Ventas.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe.config
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager1.accdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe.config
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe.config
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager1.accdb
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Compras.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Login.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Menu.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Productos.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Properties.Resources.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Proveedores.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Socios.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Ventas.resources
+C:\Users\diego\Documents\Tareas Semestre 2015-2016_I\Ingenieria de Software B\Proyecto\Respaldo\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe.config
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Compras.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Login.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Menu.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Productos.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Properties.Resources.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Proveedores.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Socios.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Ventas.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager1.accdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 25-11-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Compras.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Login.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Menu.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Productos.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Properties.Resources.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Proveedores.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Socios.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Ventas.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager1.accdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe.config
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 01-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe.config
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager1.accdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.exe
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\bin\Debug\Gym Manager Ingenieria de Software B.pdb
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Compras.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Login.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Menu.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Productos.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Properties.Resources.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Proveedores.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Socios.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym_Manager_Ingenieria_de_Software_B.Ventas.resources
+C:\Users\diego\Desktop\Gym Manager Ingenieria de Software B 02-12-2015\Gym Manager Ingenieria de Software B\obj\Debug\Gym Manager Ingenieria de Software B.csproj.GenerateResource.Cache
